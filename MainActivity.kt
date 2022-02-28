@@ -7,7 +7,8 @@ import android.widget.TextView
 import java.lang.Math.abs
 import java.util.*
 
-/* 목표 숫자와 타이머 숫자 사이의 차가 가장 적게 나는 게임 만들기 */
+/* 목표 숫자와 타이머 숫자 사이의 차가 가장 적게 나는 게임 만들기
+* 개같은.... 이걸 진짜 언제 업로드 할 수 있을까...... 나 진짜 업로드하고 싶다...*/
 
 
 class MainActivity : AppCompatActivity() {
