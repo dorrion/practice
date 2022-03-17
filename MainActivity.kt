@@ -52,8 +52,3 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-
-//        val textView: TextView = findViewById(R.id.android_text) as TextView
-//        textView.setOnClickListener {
-//            textView.text = getString(R.string.name)
-//        }
